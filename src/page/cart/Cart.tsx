@@ -9,6 +9,7 @@ import {
 } from '../../features/cart/cartSlice';
 import type { RootState } from '../../store/store';
 import Header from "../../components/layout/Header";
+import Footer from '../../components/layout/Footer';
 
 const CartComponent: React.FC = () => {
   const dispatch = useDispatch();
@@ -49,6 +50,7 @@ const CartComponent: React.FC = () => {
 
   if (cartItems.length === 0) {
     return (
+      <>
       <div>
         <Header onSearch={()=>{}}/>
         <div className="min-h-screen bg-gray-50">
@@ -67,10 +69,13 @@ const CartComponent: React.FC = () => {
           </div>
         </div>
       </div>
+      <Footer/>
+      </>
     );
   }
 
   return (
+    <>
     <div className="min-h-screen bg-gray-50">
       <div className="container p-4 px-2 py-4 mx-auto sm:px-4 sm:py-8">
         <div className="max-w-screen-lg m-20 mx-auto bg-white rounded-lg shadow-md">
@@ -217,6 +222,8 @@ const CartComponent: React.FC = () => {
         </div>
       </div>
     </div>
+    <Footer/>
+    </>
   );
 };
 

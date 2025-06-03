@@ -11,6 +11,7 @@ import qc1 from "../../assets/img/note-12.jpg";
 import qc2 from "../../assets/img/q5-pro.jpg";
 import qc3 from "../../assets/img/redmi-12-5g.jpg";
 import pupg from "../../assets/img/dienthoaihaypng_qc.png";
+import Footer from "../../components/layout/Footer";
 
 function Home() {
   const {
@@ -99,6 +100,8 @@ function Home() {
           />
         )}
       </div>
+
+      <Footer/>
     </>
   );
 }

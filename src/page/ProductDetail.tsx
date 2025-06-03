@@ -13,6 +13,7 @@ import { ErrorState } from "../components/utils/ErrorState";
 import { useProductData } from "../hook/useProductData";
 import type { Review } from "../types/product";
 import type { CartItem } from "../types/cartItem"; // Thêm import
+import Footer from "../components/layout/Footer";
 
 function ProductDetail(): React.ReactElement {
     const { id } = useParams<{ id: string }>();
@@ -76,6 +77,7 @@ function ProductDetail(): React.ReactElement {
     if (!product) return <ErrorState error="Không tìm thấy sản phẩm" onSearch={handleSearch} />;
 
     return (
+        <>
         <div className="min-h-screen bg-gray-50">
             <Header onSearch={handleSearch} />
             
@@ -120,6 +122,8 @@ function ProductDetail(): React.ReactElement {
                 </div>
             </div>
         </div>
+        <Footer/>
+        </>
     );
 }
 
