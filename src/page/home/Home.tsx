@@ -100,7 +100,6 @@ function Home() {
           />
         )}
       </div>
-
       <Footer/>
     </>
   );

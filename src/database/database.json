@@ -65,7 +65,7 @@
     {
       "id": "2",
       "title": "realme Q5 Pro",
-      "description": "realme Q5 Pro (realme GT Neo 3T) ",
+      "description": "Ngày 20/04, Realme đã chính thức cho ra mắt phiên bản Realme Q5 Pro 5G mới nhất cho năm 2022. Mẫu máy mới nhất nhà Realme được trang bị con chip Snapdragon 870 đi kèm với nó là mức giá hấp dẫn. ealme Q5 Pro được trang bị con chip Snapdragon 870 HOT nhất năm 2022. Máy có tấm nền AMOLED E4, tần số quét màn 120Hz, độ phân giải FullHD+. Chiếc điện thoại Realme mới nhất 2022 này cũng có viên pin lớn 5000mAh, hỗ trợ công nghệ sạc nhanh 80W  ",
       "category": "Realme",
       "price": 3750000,
       "discountPercentage": 5.32,
@@ -118,9 +118,9 @@
         "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
       },
       "images": [
-        "https://dienthoaihay.vn/images/products/2022/04/20/small/trang_1650506568.jpg.jpg",
-        "https://dienthoaihay.vn/images/products/2022/04/20/small/vang_1650506568.jpg.jpg",
-        "https://dienthoaihay.vn/images/products/2022/08/20/small/realme-q5-pro-1_1660965735.jpeg"
+        "https://img.hungmobile.vn/hungmobile-vn/2022/11/realme-q5-pro-5g-gia-re-11.jpg",
+        "https://img.hungmobile.vn/hungmobile-vn/2022/09/dt-realme-q5-pro-gia-re-1.jpg",
+        "https://img.hungmobile.vn/hungmobile-vn/2022/09/realme-q5-pro-5g-gia-re-18.jpg"
       ],
       "thumbnail": "https://dienthoaihay.vn/images/products/2022/06/27/resized/vang_1650506568jpg_1656295802.jpg"
     },
@@ -5575,6 +5575,66 @@
         "https://dienthoaihay.vn/images/products/2025/02/13/small/galaxy-f06-5g---xanh_1739453391.jpg.jpg"
       ],
       "thumbnail": "https://dienthoaihay.vn/images/products/2025/02/13/resized/galaxy-f06-5g---ti%CC%81m_1739453377.jpg"
+    },
+    {
+      "id": "92",
+      "title": "Xiaomi Redmi 12 5G ",
+      "description": "Xiaomi Redmi 12 5G - một thành viên thuộc series 12 của Xiaomi hiện đang thu hút đông đảo người sử dụng. Trong mức giá rẻ cực hấp dẫn, cùng trang bị cấu hình vượt trội, thể hiện rõ chiến lược “giá rẻ cấu hình cao” mà hãng này muốn mang đến cho người dùng, thiết bị trở thành chiếc smartphone đáng mua nhất tầm giá 2 triệu đồng. Đánh giá tổng quan về sản phẩm dưới đây sẽ bật mí cho bạn thất rõ điều đó.",
+      "category": "Redmi",
+      "price": 2750000,
+      "discountPercentage": 3.8,
+      "rating": 4.16,
+      "stock": 7,
+      "tags": [
+        "smartphones",
+        "Redmi"
+      ],
+      "brand": "Redmi",
+      "sku": "KSF00BOC",
+      "weight": 7,
+      "dimensions": {
+        "width": 5.72,
+        "height": 16.47,
+        "depth": 27.76
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.625Z",
+          "reviewerName": "Bella Grant",
+          "reviewerEmail": "bella.grant@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 4,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.625Z",
+        "updatedAt": "2024-05-23T08:56:21.625Z",
+        "barcode": "2543504494043",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://img.hungmobile.vn/hungmobile-vn/2024/07/w150/redmi-12-chinh-hang.png"
+      ],
+      "thumbnail": "https://img.hungmobile.vn/hungmobile-vn/2024/07/w150/redmi-12-chinh-hang.png"
     }
   ],
   "cart": []
